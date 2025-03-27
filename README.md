@@ -41,19 +41,19 @@ This project utilizes Raspberry Pi 4 and Raspberry Pi Zero W to create a **Globa
 ## Screenshots
 
 ### Network Architecture Diagram:
-![Network Architecture Diagram](![Image](https://github.com/user-attachments/assets/25761c77-5112-43fb-848c-75e54234385e))
+![Architecture Diagram](https://github.com/user-attachments/assets/25761c77-5112-43fb-848c-75e54234385e)
 
 ## OpenWRT Firewall Rules
-![Firewall Rules](![Image](https://github.com/user-attachments/assets/088f6fd5-311f-4e00-9fa1-34cf28dc4d7d))
+![Firewall Rules](https://github.com/user-attachments/assets/088f6fd5-311f-4e00-9fa1-34cf28dc4d7d)
 
 ### AD Guard Dashboard:
-![AD Guard Dashboard](![Image](https://github.com/user-attachments/assets/558940cd-26e3-412b-93c7-0f9aa3dd4efa))
+![AD Guard Dashboard](https://github.com/user-attachments/assets/558940cd-26e3-412b-93c7-0f9aa3dd4efa)
 
 ### AdGuard Home Blocklist Stats:
-![AdGuard Blocklist Stats](![Image](https://github.com/user-attachments/assets/56f4d1e3-0f54-449b-925d-36bd46a8fd9f))
+![AdGuard Blocklist Stats](https://github.com/user-attachments/assets/56f4d1e3-0f54-449b-925d-36bd46a8fd9f)
 
 ### Tailscale Configuration:
-![Tailscale Setup](![Image](https://github.com/user-attachments/assets/33dda6a3-db3a-4fa7-9f72-1db560456808))
+![Tailscale Setup](https://github.com/user-attachments/assets/33dda6a3-db3a-4fa7-9f72-1db560456808)
 
 
 
